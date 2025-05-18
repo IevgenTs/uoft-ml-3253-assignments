@@ -28,3 +28,13 @@ uoft-ml-3253-assignments/
 ├── module-08-dimensionality-reduction/
 ├── final-project/
 └── README.md
+
+## 🏁 Final Project: Predicting Power Outages from Weather Data
+
+The final project explores how extreme weather conditions correlate with power outages. I built a supervised machine learning pipeline to predict outage events using historical time-series data and weather features.
+
+The workflow includes:
+- Feature engineering
+- Model selection (Random Forest, XGBoost)
+- Time-based validation
+- Performance visualization
