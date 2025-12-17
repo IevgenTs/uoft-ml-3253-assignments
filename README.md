@@ -24,6 +24,12 @@ The workflow includes:
 - Time-based validation
 - Performance visualization
 
+## 📌 Disclaimer
+
+This repository contains my own work completed as part of **Course #3253 – Machine Learning** at the *University of Toronto School of Continuing Studies*, within the *Artificial Intelligence Certificate Program*.
+
+It includes only original code, analysis, and commentary authored by me. No official course materials, assignment instructions, lecture slides, or instructor-provided solutions are included.
+
 ## 📁 Repository Structure
 
 ```bash
@@ -39,10 +45,3 @@ uoft-ml-3253-assignments/
 ├── final-project/
 └── README.md
 
----
-
-## 📌 Disclaimer
-
-This repository contains my own work completed as part of **Course #3253 – Machine Learning** at the *University of Toronto School of Continuing Studies*, within the *Artificial Intelligence Certificate Program*.
-
-It includes only original code, analysis, and commentary authored by me. No official course materials, assignment instructions, lecture slides, or instructor-provided solutions are included.
