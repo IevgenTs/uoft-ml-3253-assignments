@@ -33,7 +33,7 @@ It includes only original code, analysis, and commentary authored by me. No offi
 ## 📁 Repository Structure
 
 ```bash
-uoft-ml-3253-assignments/
+uoft-machine-learning-3253-assignments/
 ├── module-01-intro-ml/
 ├── module-02-e2e-project/
 ├── module-03-classification/
